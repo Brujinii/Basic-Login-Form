@@ -1,2 +1,2 @@
 # Basic-Login-Form
-This is a basic login form that contains only HTML and CSS. I was able to make this using only html and css. I copied a login form that I found online, which can be found here: https://colorlib.com/etc/lf/Login_v4/index.html
+This is a basic login form that contains only HTML and CSS. I was able to make this using only html and css. I copied a login form that I found online, which can be found here: https://colorlib.com/etc/lf/Login_v4/index.html. I would like to add some animations to the site similar to the original copy that I made. I also want to add a backend so that way it could be more functional.
